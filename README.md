@@ -2,7 +2,9 @@
 
 Before diving into DSA, make sure you have a solid understanding of basic programming concepts such as variables, loops, arrays, and functions.
 
-## Programming Language :white_check_mark:
+> **N.B**: CI = Coding Interview, CP = Competitive Programming, DSA = Data Structure and Algorithm, LC = LeetCode, BFS/DFS= Breadth/Depth First Search, DP = Dynamic Programming, TC -> Time required to complete.
+
+## Programming Language :white_check_mark:  [TC -> 7 Days]
 The first thing to start your coding journey is learn one of the basic programming language out of C++, Java or Python. (If you haven't start learning any of the language, will recommend you to go with C++)
 
 ### Resource to learn C++ Programming Language
@@ -21,7 +23,7 @@ The first thing to start your coding journey is learn one of the basic programmi
 
 ---
 
-## Resource to learn Library Functions :white_check_mark:
+## Resource to learn Library Functions :white_check_mark:   [TC -> 3 Days]
 
 1. C++ STL Library 
       - LUV STL Tutorial -> [Checkout](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn) 
@@ -35,9 +37,22 @@ The first thing to start your coding journey is learn one of the basic programmi
 
 ---
 
-## Time and Space Complexity :white_check_mark:
+## Time and Space Complexity :white_check_mark:     [TC -> 2 days]
 
 Just Watch [Abdul Bari's Algorithm Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) Video no. 1-16
+
+
+---
+
+**P.S**: 
+> Don't forget to prepare notes, it will help a lot for revision before interview day. \
+> Don't take burden to finish early, try to revise concept daily which you completed till now.
+
+---
+
+DSA Resources will add here soon, STAY TUNED!! :innocent: :innocent:
+
+---
 
 
 
